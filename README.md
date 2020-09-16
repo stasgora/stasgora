@@ -1,9 +1,16 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=stasgora&show_icons=true&theme=tokyonight&hide=issues" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stasgora&layout=compact&theme=tokyonight&langs_count=6" />
+  </a>
+</p>
 
 <!--
 **stasgora/stasgora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
