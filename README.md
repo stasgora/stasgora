@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/stasgora">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=stasgora&show_icons=true&theme=tokyonight&hide=issues" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/stasgora">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stasgora&layout=compact&theme=tokyonight&langs_count=6" />
   </a>
 </p>
